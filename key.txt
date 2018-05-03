@@ -2,7 +2,8 @@
 	-> Overriding means having two methods with the same method name and parameters (i.e., method signature). 
 	   One of the methods is in the parent class and the other is in the child class. 
 	   Overriding allows a child class to provide a specific implementation of a method that is already provided its parent class. 
-
+	-> (relating to virtual methods in a class hierarchy)
+	
 - Overload
 	-> Overloading occurs when two or more methods in one class have the same method name but different parameters.
 	
@@ -23,4 +24,6 @@
 - Polymorphism
 
 - operator
+
+- Scope resolution operator
  
