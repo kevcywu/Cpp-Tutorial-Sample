@@ -27,3 +27,12 @@
 
 - Scope resolution operator
  
+- Rule of three
+	-> If a class designer feels the need to add a copy constructor, assignment perator, and/or destructor to a class,
+	   the class should have all three methods.
+	   
+- Vector
+	-> std::vector class manages a dynamic arryam using new and delete behind the scenes.
+	
+- void (int&& n) {}
+	-> rvalue reference
